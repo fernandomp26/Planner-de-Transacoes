@@ -20,9 +20,9 @@ Como dito acima, o projeto se trata de uma aplicação _FullStack_, portanto, se
 - Prisma
 - Mongo DB
 
-.
-.
-.
+<br>
+<br>
+<br>
 
 ### <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States Flag" width="50"/>
 # Financial Organization Planner 🚀
