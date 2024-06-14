@@ -1,4 +1,4 @@
-### ![Brazil Flag](https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg)
+### <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil Flag" width="100"/>
 
 # Planner para organização financeira 🚀
 Desenvolvi uma aplicação _Web FullStack_ em que você pode organizar sua vida financeira e vsualizar estatísticas sobre a mesma!
