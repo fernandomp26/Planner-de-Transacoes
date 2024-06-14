@@ -1,2 +1,6 @@
 # Planner para organização financeira
-Desenvolvi uma aplicação Web FullStack em que o usuário deve poder **cadastrar** transações em geral, visualizá-las com detalhes (título, descrição, tipo(transferência ou recibo) e valor), **deletar** transações e também visualizar **estatísticas** sobre elas, como **total de transações realizadas**, **porcentagem de transações benéficas**, **total de dinheiro transferido** e **total de dinheiro recebido** de acordo com as transações cadastradas.
+Desenvolvi uma aplicação Web FullStack em que você pode organizar sua vida financeira e vsualizar estatísticas sobre a mesma!
+
+Casos de uso principais do sistema: 
+- Cadastrar transações:  usuário deve poder cadastrar transações em seu _planner_, informando **título**, **descrição**, **tipo da transação**(transferência ou recibo) e **valor**.
+- Deletar transações: o usuário deve poder deletar as transações criadas previamente.
