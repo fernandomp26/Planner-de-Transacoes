@@ -1,2 +1,2 @@
-# Planner-de-Transacoes
-Planner para organização de transações em geral para fazer da sua vida financeira algo organizado.
+# Planner para organização financeira
+Desenvolvi uma aplicação Web FullStack em que o usuário deve poder **cadastrar** transações em geral, visualizá-las com detalhes (título, descrição, tipo(transferência ou recibo) e valor), **deletar** transações e também visualizar **estatísticas** sobre elas, como **total de transações realizadas**, **porcentagem de transações benéficas**, **total de dinheiro transferido** e **total de dinheiro recebido** de acordo com as transações cadastradas.
