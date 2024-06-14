@@ -1,4 +1,4 @@
-# Planner para organização financeira
+# Planner para organização financeira 💵
 Desenvolvi uma aplicação Web FullStack em que você pode organizar sua vida financeira e vsualizar estatísticas sobre a mesma!
 
 ## Casos de uso principais do sistema: 
