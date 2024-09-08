@@ -1,4 +1,3 @@
-### <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil Flag" width="50"/>
 # Planner para organização financeira 🚀
 Desenvolvi uma aplicação _Web FullStack_ em que você pode organizar sua vida financeira e vsualizar estatísticas sobre a mesma!
 
@@ -24,7 +23,6 @@ Como dito acima, o projeto se trata de uma aplicação _FullStack_, portanto, se
 <br>
 <br>
 
-### <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States Flag" width="50"/>
 # Financial Organization Planner 🚀
 I have developed a FullStack Web application where you can organize your financial life and visualize statistics about it!
 
